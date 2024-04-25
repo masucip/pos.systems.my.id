@@ -1,12 +1,16 @@
 {
   "name": "PoIn",
-  "version": "0.1.03",
+  "version": "0.1.04",
   "short_name": "PoIn",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
+  "related_applications": [{
+    "platform": "webapp",
+    "url": "https://pos.systems.my.id/manifest.webmanifest"
+  }],
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
