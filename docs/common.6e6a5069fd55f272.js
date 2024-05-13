@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb=self.webpackChunkweb||[]).push([[76],{1544:(c,n,r)=>{r.d(n,{g:()=>u});var s=r(4438);let u=(()=>{class t{transform(e){return Array.isArray(e)?e.length:0}static#t=this.\u0275fac=function(a){return new(a||t)};static#e=this.\u0275pipe=s.EJ8({name:"count",type:t,pure:!0})}return t})()}}]);
